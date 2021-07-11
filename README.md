@@ -18,12 +18,12 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  1. *Fork this repo to your github account* 
   <br/>
 
-   ![fork github](/img/fork.png)
+   ![fork github](/fork.png)
    
  2. Go to [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) and press begin
 
 
- ![fork github](/img/begin.png)
+ ![fork github](begin.png)
  
 > (Optional  step : You can download  the Chrome remote desktop or
 > chrome extension to use it  in 
@@ -33,51 +33,51 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
   3. Press next and click on Authorize .
 
-  ![fork github](/img/next.png)
+  ![fork github](next.png)
   <br/>
 
-  ![fork github](/img/auth.png)
+  ![fork github](auth.png)
   <br/>
 
  4. Continue with your Google account and grant the premissions.
 
- ![fork github](/img/google.png)
+ ![fork github](/google.png)
  <br/>
    
  5. Now you will end on the final page **Copy the code of Ubuntu ** [*Tested Ubuntu* ].
 
- ![fork github](/img/final.png)
+ ![fork github](/final.png)
  <br/>
    
  6. Goto your Github account and  ***open the repository which you forked*** , ( *That is  your username/ubunturdp*)
 
  7. Now click on actions and under all work flows select ubunturdp
 
- ![fork github](/img/actions.png)
+ ![fork github](/actions.png)
 
 > **Important step**
 
 8.  Click Run workflow and paste the copied code earlier to  *paste your code here* box and click  **Run Workflow**
 
- ![fork github](/img/paste.png)
+ ![fork github](/paste.png)
    <br/>
 
 09. Wait for a while (will take minimum 5mins and avg 10mins).
 
     
-  <img src="/img/cancel.png" title="ubuntu">
+  <img src="/cancel.png" title="ubuntu">
 
 
 
 10.  Go to  [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)  to access your RDP. Pin is **123456**
 
- ![fork github](/img/best.png)
+ ![fork github](/best.png)
    <br/>
 
 11.  Your RDP on browser is ready !
 
     
-  <img src="/img/ub.png" title="ubuntu">
+  <img src="/ub.png" title="ubuntu">
 
 
  
